@@ -1,0 +1,20 @@
+{
+  "files": {
+    "main.js": "/mtd-cmh/static/js/main.b603e9f4.chunk.js",
+    "main.js.map": "/mtd-cmh/static/js/main.b603e9f4.chunk.js.map",
+    "runtime-main.js": "/mtd-cmh/static/js/runtime-main.ea439601.js",
+    "runtime-main.js.map": "/mtd-cmh/static/js/runtime-main.ea439601.js.map",
+    "static/js/2.c4cfa19f.chunk.js": "/mtd-cmh/static/js/2.c4cfa19f.chunk.js",
+    "static/js/2.c4cfa19f.chunk.js.map": "/mtd-cmh/static/js/2.c4cfa19f.chunk.js.map",
+    "index.html": "/mtd-cmh/index.html",
+    "precache-manifest.e4c1c7ac3c5f35c98dc223e656d70210.js": "/mtd-cmh/precache-manifest.e4c1c7ac3c5f35c98dc223e656d70210.js",
+    "service-worker.js": "/mtd-cmh/service-worker.js",
+    "static/js/2.c4cfa19f.chunk.js.LICENSE.txt": "/mtd-cmh/static/js/2.c4cfa19f.chunk.js.LICENSE.txt",
+    "static/media/commerce.png": "/mtd-cmh/static/media/commerce.422fec10.png"
+  },
+  "entrypoints": [
+    "static/js/runtime-main.ea439601.js",
+    "static/js/2.c4cfa19f.chunk.js",
+    "static/js/main.b603e9f4.chunk.js"
+  ]
+}
