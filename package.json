@@ -1,7 +1,7 @@
 {
   "name": "e-commerce-capstone",
   "version": "0.1.0",
-  "homepage": "https://mariadahlquist.com/cmh/cmh-CapstoneProject-main/public/index.html",
+  "homepage": "https://maria72865.github.io/mtd-cmh/",
   "dependencies": {
     "@chec/commerce.js": "^2.3.0-beta1",
     "@material-ui/core": "^4.11.0",
